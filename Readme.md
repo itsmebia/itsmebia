@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebia&color=yellow" alt="Profile views" /> </p>
 
 - 📚 | Cursando Desenvolvimento de Sistemas no SENAI
-- 👩🏽‍💻/ 👩🏽‍🎨| Além de programar, me aventuro no universo artístico! 
+- 👩🏽‍💻/ 👩🏽‍🎨 | Além de programar, me aventuro no universo artístico! 
 - 🖥️ | Estou buscando o aperfeiçoamento das ferramentas que utilizo, de modo que, consiga demonstrar minha autenticidade através dos projetos que desenvolvo.
 
 ## Entre em contato comigo!
