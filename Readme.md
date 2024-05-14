@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/itsmebia/c7ac86e2dd84860a192b66598d6554dd/raw/ac065b7d6b0193bb09e3822898351f3aefb0988b/github_card.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/itsmebia/c7ac86e2dd84860a192b66598d6554dd/raw/23211a7ba168fcb011b6716c7526490d3abc8f7a/github_card.svg"/>
 <h1 align="left" margin-bottom="0">Eaí <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Me chamo Beatriz Monteiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebia&color=yellow" alt="Profile views" /> </p>
 
