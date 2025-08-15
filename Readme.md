@@ -2,7 +2,7 @@
 <h1 align="left" margin-bottom="0">Eaí <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Me chamo Beatriz Monteiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmebia&color=yellow" alt="Profile views" /> </p>
 
-- 📚 | Técnica em Desenvolvimento de Sistemas 
+- 📚 | Técnica em Análise e Desenvolvimento de Sistemas 
 - 👩🏽‍💻/ 👩🏽‍🎨 | Além de programar, também trabalho na produção de criativos! 🎨 
 - 🖥️ | Estou buscando o aperfeiçoamento das ferramentas que utilizo, de modo que, consiga demonstrar minha autenticidade através dos projetos que desenvolvo.
 
